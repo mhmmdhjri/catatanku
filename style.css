@@ -1,0 +1,41 @@
+body{
+   background-image: url(https://i.pinimg.com/736x/09/3c/93/093c937d0f579ba3a8699809ad8c4dd4.jpg);
+}
+.card{
+border: solid 3px black;
+}
+.footer {
+   
+   margin-top: 380px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 1rem 2%;
+   flex-wrap: wrap;
+   background: #323946;
+   color: #f1eeee;
+   
+}
+
+.footer-text {
+   font-size: 1rem;
+}
+.footer-icontop {
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+   background: white;
+   border-radius: 400rem;
+   padding: .8rem;
+}
+
+.footer-icontop a {
+   font-size: 2rem;
+   color:palevioletred;
+
+}
+
+.footer-icontop a:hover {
+   box-shadow: 0 0 1rem white;
+}
+
